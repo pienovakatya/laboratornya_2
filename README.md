@@ -1,4 +1,6 @@
- <h1>Лабораторна робота: Знайомство з Docker</h1>
+<h1 align="center">Звіт з лабораторної роботи №2</h1>
+<h2 align="center">Знайомство з Docker</h2>
+ 
 Запуск першого Docker-контейнера. Команда docker run -d -p 8080:80 docker/welcome-to-docker завантажує та запускає образ welcome-to-docker. Ми бачимо, як Docker завантажує необхідні шари з репозиторію Docker Hub.
 <p align="center">
 <img src="Screenshots/ (1).png" alt="(1)"/>
